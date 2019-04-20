@@ -1,1 +1,1 @@
-Udemy course by Jonas Schmedtmann- Complete JAvascripte Course
+Udemy course by Jonas Schmedtmann- Complete Javascript Course
